@@ -1,0 +1,18 @@
+.body{
+    background: rgb(185,185,185);
+    background: linear-gradient(circle, rgba(185,185,185,1) 0%, rgba(135,135,135,1) 50%, rgba(85,85,85,1) 100%);
+    background-image: url('../wave.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.link{
+    background-color:  rgba(185,185,185);
+    color: rgb(255, 255, 255);
+    padding: 15px 25px;
+    text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     border-radius: 100px;
+     border-style: solid;
+}
